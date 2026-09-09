@@ -12,6 +12,11 @@ This repository contains sample GRC artifacts demonstrating competency in cybers
 GRC-Portfolio/
 |-- risk-assessments/
 |   |-- NIST-RMF-Risk-Assessment-Template.md
+|   |-- Sample-Risk-Assessment-LATS.md
+|-- poam/
+|   |-- Sample-POAM-LATS.md
+|-- incident-response/
+|   |-- Incident-Response-Plan.md
 |-- security-policies/
 |   |-- Acceptable-Use-Policy.md
 |-- compliance-checklists/
@@ -23,6 +28,13 @@ GRC-Portfolio/
 
 ### Risk Assessments
 - **NIST RMF Risk Assessment Template** - A structured risk assessment following NIST Risk Management Framework methodology, including asset identification, threat analysis, vulnerability assessment, and risk determination.
+- **Sample Risk Assessment (LATS)** - A fully worked example applying the template above to a fictional logistics asset-tracking system, including a completed risk matrix and response plan.
+
+### Plan of Action and Milestones (POA&M)
+- **Sample POA&M (LATS)** - Tracks remediation of the findings from the Sample Risk Assessment through to closure, with milestones and accountable owners per NIST SP 800-53 Rev 5.
+
+### Incident Response
+- **Incident Response Plan** - A NIST SP 800-61 Rev 2-aligned incident response plan covering roles, severity classification, and the full incident lifecycle, cross-referenced to the Sample Risk Assessment and POA&M.
 
 ### Security Policies
 - **Acceptable Use Policy (AUP)** - An organizational policy template defining acceptable use of information systems, covering user responsibilities, prohibited activities, and enforcement procedures.
